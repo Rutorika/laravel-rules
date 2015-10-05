@@ -10,3 +10,4 @@
 - [Стандартный Readme](https://github.com/Rutorika/laravel-rules/issues/4)
 - [Выбор БД](https://github.com/Rutorika/laravel-rules/issues/5)
 - [Пакеты](https://github.com/Rutorika/laravel-rules/issues/6)
+- [Загрузка файлов](https://github.com/Rutorika/laravel-rules/issues/7)
