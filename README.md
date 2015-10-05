@@ -4,8 +4,9 @@
 
 ## Обсуждение
 
-- [Выбор БД](https://github.com/Rutorika/laravel-rules/issues/5)
-- [Стандартный Readme](https://github.com/Rutorika/laravel-rules/issues/4)
-- [Структура БД и её описание](https://github.com/Rutorika/laravel-rules/issues/3)
-- [Структура публичной директории](https://github.com/Rutorika/laravel-rules/issues/2)
 - [Вопросы по роутам](https://github.com/Rutorika/laravel-rules/issues/1)
+- [Структура публичной директории](https://github.com/Rutorika/laravel-rules/issues/2)
+- [Структура БД и её описание](https://github.com/Rutorika/laravel-rules/issues/3)
+- [Стандартный Readme](https://github.com/Rutorika/laravel-rules/issues/4)
+- [Выбор БД](https://github.com/Rutorika/laravel-rules/issues/5)
+- [Пакеты](https://github.com/Rutorika/laravel-rules/issues/6)
