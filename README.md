@@ -12,3 +12,4 @@
 - [Пакеты](https://github.com/Rutorika/laravel-rules/issues/6)
 - [Загрузка файлов](https://github.com/Rutorika/laravel-rules/issues/7)
 - [Клиентские сборщики и менеджеры пакетов](https://github.com/Rutorika/laravel-rules/issues/8)
+- [CRUD Контроллер](https://github.com/Rutorika/laravel-rules/issues/9)
